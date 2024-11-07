@@ -6,6 +6,5 @@ func TestSum(t *testing.T)  {
 
 	if result != 5 {
 		t.Error("the result must be 5")
-	}
-	
+	}	
 }
